@@ -9,7 +9,7 @@ Repositório criado para praticar lógica de programação utilizando Git e GitH
 - matematica
 
 ## 🧠 Tecnologias
-- JavaScript (ou a linguagem que você usa)
+- JavaScript 
 
 ## 💡 Diferenciais
 
